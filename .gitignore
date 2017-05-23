@@ -1,4 +1,4 @@
-/.classpath
+/.lasspath
 /.project
 /bin
 /data-complete
@@ -13,3 +13,5 @@ arx.iml
 .classpath
 .project
 /build
+.DS_Store
+/doc
